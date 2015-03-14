@@ -1,4 +1,4 @@
-#!urs/bin/env python
+#!/urs/bin/env python
 # -*- coding: utf-8 -*-
 """Module Receives Data and returns SUM,Average of list or tuples"""
 
