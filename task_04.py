@@ -9,10 +9,3 @@ def process_data(numlist):
         total += numlist[0:]
         return total
     return numlist
-
-
-NUMLIST = [1,2,3]
-
-SUMUP = sum(NUMLIST[0:])
-
-AVG = float(SUMUP) / len(NUMLIST[0:])
