@@ -23,4 +23,4 @@ def process_data(numlist):
     total = 0
     for value in numlist:
         total += value
-    return total, float(total/len(numlist))
+    return total, (total/float(len(numlist)))
