@@ -8,7 +8,7 @@ def process_data(numlist):
 
     Args:
     numlist: List values arithmetically increment and average concat with comma.
-    
+
     Returns:
     tupl: Arguments concatenated with commas.
 
