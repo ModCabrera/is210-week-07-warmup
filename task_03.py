@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Module copies data.DIRECTIONS and assigned Variable DIRECTIONS"""
+"""Module copies data module Variable DIRECTIONS"""
 
 from data import DIRECTIONS
 
