@@ -13,7 +13,6 @@ def flip_keys(to_flip):
     list: Arguments with inner elements reversed.
 
     Examples:
-    
     >>> flip_keys([(1,2,3),'A,B,C'])
     [(3, 2, 1), 'C,B,A']
 
