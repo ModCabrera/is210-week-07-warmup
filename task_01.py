@@ -1,4 +1,4 @@
-#!usr/bin/env python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """Module Containing Two Constants Elements(Tuple) and Operations[List]"""
 
